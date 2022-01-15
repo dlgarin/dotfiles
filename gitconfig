@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = diogenes_lg@yahoo.com.br
+	name = Diogenes Garin
